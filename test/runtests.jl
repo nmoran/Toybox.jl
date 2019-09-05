@@ -1,4 +1,4 @@
-using Tests
+using Test
 
 println("Running Tests")
 
